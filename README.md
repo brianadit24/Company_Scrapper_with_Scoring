@@ -1,6 +1,6 @@
 # 🚀 Smart Lead Scoring Dashboard (Caprae AI Challenge)
 
-This is a Streamlit-based AI tool designed to simulate intelligent lead scoring for B2B companies. Built for the Caprae AI-Readiness Challenge, it replicates and extends Caprae’s lead scraping interface with enhanced visualizations and explainability.
+This is a Streamlit-based AI tool designed to simulate intelligent lead scoring for companies. Built for the Caprae AI-Readiness Challenge, it replicates and extends Caprae’s lead scraping interface with enhanced visualizations and explainability.
 
 ---
 
